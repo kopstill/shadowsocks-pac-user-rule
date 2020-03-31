@@ -4,3 +4,6 @@
 
 .githubusercontent.com
 ||githubusercontent.com
+
+.githubassets.com
+||githubassets.com
