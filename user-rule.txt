@@ -7,3 +7,6 @@
 
 .githubassets.com
 ||githubassets.com
+
+api.github.com
+||api.github.com
