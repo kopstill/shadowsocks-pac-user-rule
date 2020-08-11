@@ -10,3 +10,6 @@
 
 api.github.com
 ||api.github.com
+
+notion.so
+||notion.so
