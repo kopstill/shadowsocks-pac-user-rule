@@ -13,3 +13,6 @@ api.github.com
 
 notion.so
 ||notion.so
+
+ssl.gstatic.com
+||ssl.gstatic.com
