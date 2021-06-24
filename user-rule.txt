@@ -19,3 +19,9 @@ ssl.gstatic.com
 
 v2ex.com
 ||v2ex.com
+
+checkgfw.com
+||checkgfw.com
+
+brave.com
+||brave.com
