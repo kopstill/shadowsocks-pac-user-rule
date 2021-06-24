@@ -25,3 +25,6 @@ checkgfw.com
 
 brave.com
 ||brave.com
+
+programmersought.com
+||programmersought.com
