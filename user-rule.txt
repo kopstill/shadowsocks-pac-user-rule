@@ -28,3 +28,6 @@ brave.com
 
 programmersought.com
 ||programmersought.com
+
+kknews.cc
+||kknews.cc
