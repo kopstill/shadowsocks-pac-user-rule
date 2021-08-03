@@ -31,3 +31,6 @@ programmersought.com
 
 kknews.cc
 ||kknews.cc
+
+gravatar.com
+||gravatar.com
