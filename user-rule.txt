@@ -34,3 +34,6 @@ kknews.cc
 
 gravatar.com
 ||gravatar.com
+
+bgp.he.net
+||bgp.he.net
