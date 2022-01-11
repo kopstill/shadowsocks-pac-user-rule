@@ -35,7 +35,14 @@ kknews.cc
 gravatar.com
 ||gravatar.com
 
+cn.gravatar.com
+||cn.gravatar.com
+
 bgp.he.net
 ||bgp.he.net
+
+workflowy.com
+
+wiktionary.org
 
 duolingo.com
